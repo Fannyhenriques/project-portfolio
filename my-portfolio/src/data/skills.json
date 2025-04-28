@@ -1,42 +1,49 @@
 {
   "skills": [
     {
-      "name": "Code",
+      "name": "Languages",
       "tags": [
         "HTML5",
         "CSS3",
         "Javascript ES6",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Frontend tech",
+      "tags": [
         "React",
+        "DOM Manipulation",
+        "Zustand",
         "Styled Components",
-        "GitHub"
+        "Accessibility",
+        "Flexbox",
+        "CSS Grid",
+        "Tailwind CSS",
+        "Animations"
       ]
     },
     {
-      "name": "Toolbox",
+      "name": "Backend tech",
       "tags": [
-        "Atom",
-        "Postman",
-        "Adobe Photoshop",
-        "Adobe Illustrator",
-        "Figma",
-        "Keynote",
-        "Slack"
-      ]
-    },
-    {
-      "name": "Upcoming",
-      "tags": [
-        "Node.js"
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs",
+        "Authentication"
       ]
     },
     {
       "name": "More",
       "tags": [
-        "Branding",
-        "Strategy",
-        "Process Design",
-        "Concept Development",
-        "Agile methodology"
+        "Agile methodology",
+        "Remote working",
+        "mob-programming",
+        "pair-programming",
+        "Team work",
+        "Unit testing",
+        "Design hand-off"
       ]
     }
   ]

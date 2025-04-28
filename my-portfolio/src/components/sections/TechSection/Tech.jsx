@@ -7,10 +7,21 @@ export const Tech = () => {
       <div className="tech-content-section">
         <H2>Tech</H2>
         <BodyText>
-          HTML, CSS, Flexbox, JavaScript, ES6,
-          JSX, React, React Hooks, Node.js,
-          Mongo DB, Web Accessibility, APIs,
-          mob-programming, pair-programming, GitHub.
+          React Hooks,
+          Global State Management,
+          Web Accessibility,<br />
+          APIs,
+          Git & GitHub,
+          Command Line (terminal) <br />
+          VS Code,
+          Chrome dev tools,
+          Netlify,
+          Render,<br />
+          Google cloud platform,
+          Postman,<br />
+          MongoDB Compass,
+          MongoDB Atlas,
+          Lint,
         </BodyText>
       </div>
     </section>

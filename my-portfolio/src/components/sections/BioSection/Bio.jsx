@@ -7,7 +7,7 @@ export const Bio = () => {
       <div className="content-section">
         <H2>Bio</H2>
         <BodyText>
-          Fanny is an exceptional developer known for her innovative solutions and exceptional coding abilities. She creates user-friendly applications and solves complex issues with ease. Her drive for excellence makes her a valuable asset to any project and a standout in the technology field.
+          Fanny is a social, solution-oriented, and creative junior web developer with a background in mental health. Her previous experience as a social worker has shaped her structured approach, strong communication skills, and ability to collaborate effectively. With a passion for building user-friendly applications and solving problems creatively, she brings both technical skills and human-centered thinking to every project.
         </BodyText>
       </div>
     </section>

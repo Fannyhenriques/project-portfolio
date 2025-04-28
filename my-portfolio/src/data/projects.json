@@ -1,56 +1,62 @@
 {
   "projects": [
     {
-      "name": "Chatbot",
+      "name": "Playgroundfinder",
       "image": "img2",
       "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript"
+        "React",
+        "React Router",
+        "Zustand",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Authentication",
+        "Bcrypt",
+        "Axios"
       ],
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
-      "netlify": "https://moviechatbot.netlify.app/",
-      "github": "https://github.com/Fannyhenriques/project-chatbot"
+      "description": "Playground Finder is a React web app built with React Router and the Google Places API (NearbySearch and TextSearch). It allows users to search for playgrounds, view results on an interactive map, and save their favorite spots to a personal profile.",
+      "netlify": "https://playgroundfinder.vercel.app",
+      "github": "https://github.com/Fannyhenriques/project-final"
     },
     {
-      "name": "Weather app",
+      "name": "Movie Library",
       "image": "img1",
       "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "APIs"
+        "React",
+        "React router",
+        "APIs",
+        "Styled components"
       ],
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
-      "netlify": "https://master--weathertheweatherapp.netlify.app",
-      "github": "https://github.com/Fannyhenriques/project-weather-app"
+      "description": "Movie Library is a React app where current and upcoming movies are displayed. The app uses React Router, allowing users to navigate between pages without reloading the site. ",
+      "netlify": "https://fannys-movie-library.netlify.app",
+      "github": "https://github.com/Fannyhenriques/project-movies-vite?tab=readme-ov-file"
     },
     {
-      "name": "Project Survey",
+      "name": "Taskbuddy",
       "image": "img3",
       "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React"
+        "React",
+        "Typescript",
+        "Zustand",
+        "Styled components"
       ],
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
-      "netlify": "https://project-joy-boost-survey.netlify.app/",
-      "github": "https://github.com/joheri1/project-survey-vite"
+      "description": "Taskbuddy is a React and TypeScript to-do app using Zustand for global state management, featuring task creation, live tracking of totals and completions, and task removal.",
+      "netlify": "https://fannys-taskbuddy.netlify.app",
+      "github": "https://github.com/Fannyhenriques/project-to-dos-zustand-vite?tab=readme-ov-file"
     },
     {
-      "name": "Happy-thoughts",
+      "name": "Happy-thoughts API",
       "image": "img2",
       "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
         "APIs",
         "React"
       ],
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "description": "Happy Thoughts is a fullstack project featuring a RESTful API for managing posts and a React frontend for sharing and liking happy thoughts, with real-time updates and timestamps.",
       "netlify": "https://fh-happythoughtsapp.netlify.app/",
-      "github": "https://github.com/Fannyhenriques/project-happy-thoughts-vite"
+      "github": "https://github.com/Fannyhenriques/project-happy-thoughts-api"
     }
   ]
 }
