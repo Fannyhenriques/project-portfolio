@@ -19,17 +19,18 @@
       "github": "https://github.com/Fannyhenriques/project-final"
     },
     {
-      "name": "Movie Library",
+      "name": "Happy-thoughts API",
       "image": "img1",
       "tags": [
-        "React",
-        "React router",
+        "Node.js",
+        "Express",
+        "MongoDB",
         "APIs",
-        "Styled components"
+        "React"
       ],
-      "description": "Movie Library is a React app where current and upcoming movies are displayed. The app uses React Router, allowing users to navigate between pages without reloading the site. ",
-      "netlify": "https://fannys-movie-library.netlify.app",
-      "github": "https://github.com/Fannyhenriques/project-movies-vite?tab=readme-ov-file"
+      "description": "Happy Thoughts is a fullstack project featuring a RESTful API for managing posts and a React frontend for sharing and liking happy thoughts, with real-time updates and timestamps.",
+      "netlify": "https://fh-happythoughtsapp.netlify.app/",
+      "github": "https://github.com/Fannyhenriques/project-happy-thoughts-api"
     },
     {
       "name": "Taskbuddy",
@@ -45,18 +46,17 @@
       "github": "https://github.com/Fannyhenriques/project-to-dos-zustand-vite?tab=readme-ov-file"
     },
     {
-      "name": "Happy-thoughts API",
+      "name": "Movie Library",
       "image": "img2",
       "tags": [
-        "Node.js",
-        "Express",
-        "MongoDB",
+        "React",
+        "React router",
         "APIs",
-        "React"
+        "Styled components"
       ],
-      "description": "Happy Thoughts is a fullstack project featuring a RESTful API for managing posts and a React frontend for sharing and liking happy thoughts, with real-time updates and timestamps.",
-      "netlify": "https://fh-happythoughtsapp.netlify.app/",
-      "github": "https://github.com/Fannyhenriques/project-happy-thoughts-api"
+      "description": "Movie Library is a React app where current and upcoming movies are displayed. The app uses React Router, allowing users to navigate between pages without reloading the site. ",
+      "netlify": "https://fannys-movie-library.netlify.app",
+      "github": "https://github.com/Fannyhenriques/project-movies-vite?tab=readme-ov-file"
     }
   ]
 }
